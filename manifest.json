@@ -1,6 +1,6 @@
 {
-    "name": "ima_host_v2",
-    "short_name": "ima_host_v2",
+    "name": "ima_deploy_v1",
+    "short_name": "ima_deploy_v1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
